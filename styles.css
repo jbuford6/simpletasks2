@@ -1,0 +1,62 @@
+.body {
+    background-color: olivedrab;
+    max-width: 900px;
+    min-width: 900px;
+    
+}
+.hello {
+    height: 150px;
+    width: 300px;
+    background-color: yellow;
+    border: 3px solid black;
+    margin-left: 40px;
+    position: fixed;
+}
+.typeBox {
+    height: 150px;
+    width: 300px;
+    background-color: yellow;
+    border: 3px solid black;
+    float: right;
+}
+.changeColor {
+    height: 150px;
+    width: 300px;
+    background-color: yellow;
+    border: 3px solid black;
+    float: left;
+    margin-left: 40px;
+    margin-top: 250px;
+}
+.textColor {
+    height: 150px;
+    width: 300px;
+    background-color: yellow;
+    border: 3px solid black;
+    float: right;
+    margin-top: 95px;
+    text-align: center;
+    font-size: 50px; 
+}
+.addName {
+    height: 150px;
+    width: 300px;
+    background-color: yellow;
+    border: 3px solid black;
+    float: left;
+    margin-left: 40px;
+    margin-top: 100px;
+    overflow: scroll;
+    text-align: center;
+}
+.names-sentence{
+    height: 150px;
+    width: 300px;
+    background-color: yellow;
+    border: 3px solid black;
+    float: right;
+    margin-top: 95px;
+    text-align: center;
+    overflow: scroll; 
+}
+
